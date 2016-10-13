@@ -1,0 +1,1 @@
+A solution written in Python to display the value of pi onto the command prompt. Called one function i wrote to solve the problem by setting the value of x to 3.14 then had it print "the value of pi is" x.
